@@ -72,6 +72,9 @@ STaRNet/
 ### 1. Installation
 
 ```bash
+# Clone the repository
+git clone https://github.com/ghko99/BCI-STaRNet.git
+cd BCI-STaRNet
 
 # Create virtual environment
 python -m venv venv
