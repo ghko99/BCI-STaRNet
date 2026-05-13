@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Training outputs and local data
+figs/
+results/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# Notebook and OS metadata
+.ipynb_checkpoints/
+.DS_Store
